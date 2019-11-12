@@ -29,7 +29,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-	img:hover{
+	.img:hover{
 		color: #424242; 
 	  -webkit-transition: all .3s ease-in;
 	  -moz-transition: all .3s ease-in;
